@@ -1,5 +1,5 @@
 [package]
-name = "LastestTimeByReplacingHiddenDigits"
+name = "latest_time_by_replacing_hidden_digits"
 version = "0.1.0"
 edition = "2018"
 

@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "PrimeNumberOfSetBitsInBinaryRepresentation"
+name = "latest_time_by_replacing_hidden_digits"
 version = "0.1.0"
